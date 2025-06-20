@@ -1,2 +1,2 @@
 # Employee-Bot
-Building a chatbot to employee's queries (prompts) about HR policies
+Building a chatbot to respond to users' queries (prompts) on Indian Budget FY'26.
